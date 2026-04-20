@@ -1,0 +1,4 @@
+function showSkills() {
+    document.getElementById("skillsBox").innerHTML =
+        "Skills: HTML, CSS, JavaScript, Laboratory Techniques, Analytical Thinking, Research-Based Problem Solving";
+}
